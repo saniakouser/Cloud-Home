@@ -1,11 +1,11 @@
 
 # Welcome to LandConnect
 
-**Connecting Landowners with Customers for Storage Solutions**
+**Connecting Landowners with Customers **
 
 ## Overview
 
-LandConnect is a service-based platform designed to bridge the gap between landowners and customers. Whether you're a landowner looking to rent out available rooms, properties, or underutilized lands for storage, or a customer seeking convenient storage options, LandConnect has you covered!
+LandConnect is a service-based platform designed to bridge the gap between landowners and customers. Whether you're a landowner looking to rent out available rooms, properties, or underutilized lands , or a customer seeking convenient storage options, LandConnect has you covered!
 
 ## Features
 
@@ -16,7 +16,6 @@ LandConnect is a service-based platform designed to bridge the gap between lando
 - **Earn Income:** Generate income from underutilized spaces.
 
 ### For Customers:
-- **Find Storage:** Discover a wide range of storage options near you.
 - **Connect with Landowners:** Directly communicate with landowners to discuss terms and availability.
 - **Secure Transactions:** Enjoy secure and transparent transactions through our platform.
 - **Easy Booking:** Book your storage space quickly and hassle-free.
